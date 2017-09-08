@@ -1,0 +1,5 @@
+a. Basic key and value
+b. Retrive key and value based on data file
+c. sum of all the values based on key
+d. Avg of the values
+e. Count of the keys

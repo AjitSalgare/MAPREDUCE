@@ -1,0 +1,7 @@
+"Project - Retail Store Data
+-- -- -- -- -- -- -- -- -- -- --
+The data set contains the data of the following 4 months:
+D11: Transaction data collected in November, 2000
+D12: Transaction data collected in December, 2000
+D01: Transaction data collected in January, 2001
+D02: Transaction data collected in February, 2001"
